@@ -1,12 +1,14 @@
 # Samuel
 
-[Samuel](https://samuel.vvolhejn.com/) is a model that learns to control this silly mouth to mimic speech. Say something and it will parrot after you, or if you're shy, try one of the pre-made clips.
+[Samuel](https://samuel.vvolhejn.com/) is a model that learns to control this silly mouth to mimic speech. Say something and it will parrot after you. If you're shy, try one of the pre-made clips or the text-to-speech.
 
 The mouth itself is [Pink Trombone](https://dood.al/pinktrombone/), a project originally by Neil Thapen, described by him as "bare-handed speech synthesis".
 
-[![](samuel-screenshot.png)](https://samuel.vvolhejn.com/)
+https://github.com/user-attachments/assets/f952b7d9-43af-4521-8431-0abf9ec027dd
 
-[**Try it here**](https://samuel.vvolhejn.com/)
+[**Try it here**](https://samuel.vvolhejn.com/).
+
+Read my blog post about how it was made [here](https://vvolhejn.com/blog/2026-08-17-samuel) and [this one](https://vvolhejn.com/blog/2026-10-22-samuel-tts) about how I trained the text-to-speech.
 
 ## How to run it
 
